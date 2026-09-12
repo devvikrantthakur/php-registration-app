@@ -776,7 +776,7 @@ http://my-php-alb-123456789.ap-south-1.elb.amazonaws.com:81/php-registration-app
 
 ### Database Records
 
-![Database Records](screenshots/alb-database-records.png)
+![Database Records](screenshots/mysql-database.png)
 
 ---
 
