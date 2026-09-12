@@ -766,6 +766,18 @@ Example format:
 http://my-php-alb-123456789.ap-south-1.elb.amazonaws.com:81/php-registration-app/signup.html
 ```
 
+### Registration Page
+
+![Registration Page](screenshots/alb-registration-page.png)
+
+### Successful Registration
+
+![Registration Success](screenshots/alb-registration-success.png)
+
+### Database Records
+
+![Database Records](screenshots/alb-database-records.png)
+
 ---
 
 # 📝 Application Workflow
